@@ -104,7 +104,12 @@
         "images/g07-3-1794304887489-2.png",
         "images/g07-4-1794304890970-3.png"
       ],
-      "links": []
+      "links": [
+        {
+          "label": "링크 바로가기",
+          "url": "https://partner.gmarket.com/insight_newsletter/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172105830&t=board&category=X36da7m106"
+        }
+      ]
     }
   },
   "G10": {
@@ -296,7 +301,8 @@
         "로드맵 전체 화면",
         "온라인 교육 배너"
       ],
-      "metrics": []
+      "metrics": [],
+      "sections": {}
     },
     "media": {
       "images": [
